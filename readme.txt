@@ -5,3 +5,4 @@ this is my line4
 this is my line5
 this is my line6
 Creating a new branch is quick.
+Creating a new branch is quick & simple
